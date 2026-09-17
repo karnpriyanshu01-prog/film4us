@@ -9,5 +9,8 @@ build/
 .idea/
 .vscode/
 android/local.properties
+android/.gradle/
+android/app/.cxx/
 ios/
 **/Pods/
+**/build/
